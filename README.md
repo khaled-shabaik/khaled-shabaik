@@ -19,6 +19,14 @@ Missing terms, put it later: usability testing, API Security testing.
 -->
 
 <!--
+Last but not least, I always believe that Human connection matters, so I used to define myself 
+In addition to my professional roles, I have also had the opportunity to serve as a technical instructor, delivering technical courses, especially in Automation testing, on the local Udacity platform in Egypt.
+Currently, I’m focused on extending my expertise by obtaining Salesforce certifications related to software testing and functional consulting. My future plan is to obtain an MBA specializing in tech sales from Windsor University.
+I worked in several business domains such as online shopping, stock investment, social gaming communities and others.
+
+-->
+
+<!--
 **🌟 Passion and Commitment:** 
 ###### I'm always passionate in business world by delivering impactful solutions and services that empower people’s businesses and enhance our quality of life. Throughout my career, I’ve remained dedicated to delivering high-quality outcomes that align with business goals and customer needs.<br />
 
