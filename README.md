@@ -12,6 +12,13 @@
 ###### By 2021, I advanced to a broader role as a QA Engineer, expanding my expertise to include Requirements Gathering and Analysis, Advanced Root Cause Investigation, User Acceptance Testing, API Systems Integration, Release Management.
 
 <!--
+From 2025 and on, Overseaing the entire software lifecycle, Establish and monitor QA processes aimed at balancing time, quality, and cost with a focus on maintainingteam motivation and sustaining productivity. building frameworks, strategies, and systems to enhance the quality, balance between quality, time and resources emphasizing process quality to minimize defects in earlier stages, impact analysis, traceability matrix, leveraging AI in software testing, presales skills, client presentation and technical demonstration, System integration testing, Contract testing, visualize software quality efforts in quarterly meeting and how it impact business profit (saving time, losing clients, protecting major issues) aiming to become functional consultant 
+implementing processes, guidelines, and standards.
+•  Works on building frameworks, strategies, and systems to enhance the quality of the software and its development processes.
+Missing terms, put it later: usability testing, API Security testing.
+-->
+
+<!--
 **🌟 Passion and Commitment:** 
 ###### I'm always passionate in business world by delivering impactful solutions and services that empower people’s businesses and enhance our quality of life. Throughout my career, I’ve remained dedicated to delivering high-quality outcomes that align with business goals and customer needs.<br />
 
