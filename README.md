@@ -33,41 +33,5 @@
 
 
 <!--
-From 2025 and on, Overseaing the entire software lifecycle, Establish and monitor QA processes aimed at balancing time, quality, and cost with a focus on maintainingteam motivation and sustaining productivity. building frameworks, strategies, and systems to enhance the quality, balance between quality, time and resources emphasizing process quality to minimize defects in earlier stages, impact analysis, traceability matrix, leveraging AI in software testing, presales skills, client presentation and technical demonstration, System integration testing, Contract testing, visualize software quality efforts in quarterly meeting and how it impact business profit (saving time, losing clients, protecting major issues) aiming to become functional consultant 
-implementing processes, guidelines, and standards.
-•  Works on building frameworks, strategies, and systems to enhance the quality of the software and its development processes.
-Missing terms, put it later: usability testing, API Security testing.
--->
-
-<!--
-Last but not least, I always believe that Human connection matters, so I used to define myself 
-In addition to my professional roles, I have also had the opportunity to serve as a technical instructor, delivering technical courses, especially in Automation testing, on the local Udacity platform in Egypt.
-Currently, I’m focused on extending my expertise by obtaining Salesforce certifications related to software testing and functional consulting. My future plan is to obtain an MBA specializing in tech sales from Windsor University.
-I worked in several business domains such as online shopping, stock investment, social gaming communities and others.
-
--->
-
-<!--
-
-
-
-
-
-**Business domains:** I started CRM specially salesforce
-
-**Services:**
-coming up
-
-**Knowledge:**
-
-
-**core traits:**
-
-**Technologies:** Java, git, Postman, Rest assured, I believe that tools are just tools and real engineer has to know principles first, apply these principles on tool is a matter of time, specific things to do in this tool, get help from expertise in this tool or ask AI, few things about each tools, however I believe that one should also have one favorite tool.
-
-
-You might be interested in
-
-
-Human connection
+Continue from https://github.com/khaled-shabaik/KhaledAMRS/edit/main/README.md
 -->
