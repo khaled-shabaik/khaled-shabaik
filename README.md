@@ -20,6 +20,9 @@
 **💻 Technical Skills:**
 ###### **Testing Expertise:** Functional Testing, Usability Testing, Mobile Testing, API Testing, System Integration Testing, User Acceptance Testing, and Release Management.<br /> **Automation Tools & Languages:** Proficient in Java, Appium, RestAssured, Postman, and Cucumber. <br /> **Presales Proficiency:** Skilled in delivering client presentations and conducting technical demonstrations.
 
+**💻 Skill-based projects:**
+###### Project name: 
+
 
 **🌐 Languages:** 
 ###### Arabic: Native  <br /> English: Fluent
